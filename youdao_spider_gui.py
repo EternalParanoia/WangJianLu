@@ -2,7 +2,7 @@ from urllib import request
 from urllib import parse
 import json
 import wx
-import wx._core
+
 url = 'http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule'
 Form_Data = {}
 
